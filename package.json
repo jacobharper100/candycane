@@ -1,0 +1,21 @@
+{
+    "name": "candycane",
+    "displayName": "Candy Cane",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "publisher": "Jacob Harper",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Candy Cane",
+                "uiTheme": "vs-dark",
+                "path": "./themes/candycane.json"
+            }
+        ]
+    }
+}
